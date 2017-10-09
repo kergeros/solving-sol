@@ -1,5 +1,6 @@
 Solving Sol
 ===========
+Alberto Thomae's attempt to interprest the solvingsol instructions.
 
 ![Sol LeWitt Reference Image](http://solvingsol.com/screenshots/thumbs/391-amiccolis-index.html.png)
 
